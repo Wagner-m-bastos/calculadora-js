@@ -1,0 +1,26 @@
+.conteiner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+
+}
+button {
+ 
+  background: linear-gradient(#df4e0a, #e59191);
+} 
+body {
+   background: linear-gradient(#be450d, #aa91e5);
+    justify-items: center;
+    border-radius: 3px;
+  }
+    h1 {
+      background: linear-gradient(#e4e0e0, #f10727);
+    } 
+    input {
+      background: linear-gradient(#ffffff, #ffffff);
+    } 
+    head {
+      padding: 3px;
+      background-color: #e4e0e0;
+    }
